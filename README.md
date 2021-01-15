@@ -1,4 +1,10 @@
-[![Inicijativa Potres2020](Inicijativa2020-logo-web-small.png)](https://potres2020.github.io)[![](GoogleAnalytics.svg?maxAge=2592000)](#)
+[![](GoogleAnalytics.svg?maxAge=2592000)](#)
+<p align="center">
+  <a href="https://potres2020.github.io">
+    <img src="Inicijativa2020-logo-web-small.png" />
+  </a>
+</p>
+
 # Inicijativa Potres2020
 Humanitarna građanska inicijativa za pomoć građanima pogođenim kriznim situacijama - uspostavom IT ekosustava za pomoć
 
