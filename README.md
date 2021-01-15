@@ -1,6 +1,6 @@
 ![Inicijativa 20202](Inicijativa2020-logo-web-small.png)
 # Inicijativa Potres2020
-Humanitarna građanska inicijativa za pomoć građanima pogođenim kriznim situacijama uspostavom IT sustava za pomoć
+Humanitarna građanska inicijativa za pomoć građanima pogođenim kriznim situacijama - uspostavom IT sustava za pomoć
 
 # O nama
 Inicijativa “Potres2020” je cluster nekoliko skupina volontera,
