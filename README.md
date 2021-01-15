@@ -1,11 +1,11 @@
-![Inicijativa 20202](Inicijativa2020-logo-web-small.png)
+![Inicijativa Potres2020](Inicijativa2020-logo-web-small.png)
 # Inicijativa Potres2020
-Humanitarna građanska inicijativa za pomoć građanima pogođenim kriznim situacijama - uspostavom IT sustava za pomoć
+Humanitarna građanska inicijativa za pomoć građanima pogođenim kriznim situacijama - uspostavom IT ekosustava za pomoć
 
 # O nama
 Inicijativa “Potres2020” je cluster nekoliko skupina volontera,
 koje prije svega motivira humanitarni rad u humanitarnoj krizi nastaloj nakon potresa u Petrinji i široj okolici.
-Okuplja volontere na terenu, koordinatore, moderatore, logističare, prijevoznike, skladištare i IT-evce koji pokušavaju
+Okuplja volontere na terenu, koordinatore, moderatore, logističare, prijevoznike, skladištare i IT profesionalce koji pokušavaju
 uspostaviti sustav protoka provjerenih i pravovremenih informacija, kako bi se optimiziralo dostavljanje pomoći potrebitima
 u pravom trenutku bez kolapsa komunikacije i gubljenja vremena.
 
