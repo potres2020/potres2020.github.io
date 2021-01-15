@@ -16,6 +16,8 @@ u pravom trenutku bez kolapsa komunikacije i gubljenja vremena.
 # Kontakt
 Organizacije i skupine koje žele da im pomognemo sustavnije organizirati praćenje i riješavanje pomoći potrebitima, neka nam se jave na e-mail.
 E-mail: [inicijativapotres2020@gmail.com](inicijativapotres2020@gmail.com)
+## Javne rasprave
+Ukoliko želite potaknuti javnu raspravu, možete to učiniti [ovdje](https://github.com/potres2020/potres2020.github.io/discussions/1).
 
 ## Moderatori
 Postoji grupa moderatora koja ima dežurstva 0-24 i mogu pomoći u bilo kojem trenutku, za chat javite se na Telegram grupu: [https://t.me/potres2020_prijave](https://t.me/potres2020_prijave).
