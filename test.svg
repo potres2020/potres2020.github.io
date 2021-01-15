@@ -1,9 +1,17 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="1" height="1" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-2V5PBCDMTG"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-2V5PBCDMTG');
+        </script>
+        
         <!-- Other embed HTML element/text into SVG -->
     </div>
 </foreignObject>
