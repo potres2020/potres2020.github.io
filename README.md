@@ -1,4 +1,4 @@
-![Inicijativa Potres2020](Inicijativa2020-logo-web-small.png)
+![Inicijativa Potres2020](Inicijativa2020-logo-web-small.png)[![](GoogleAnalytics.svg)](#)
 # Inicijativa Potres2020
 Humanitarna građanska inicijativa za pomoć građanima pogođenim kriznim situacijama - uspostavom IT ekosustava za pomoć
 
@@ -21,5 +21,3 @@ Ukoliko želite potaknuti javnu raspravu, možete to učiniti [ovdje](https://gi
 
 ## Moderatori
 Postoji grupa moderatora koja ima dežurstva 0-24 i mogu pomoći u bilo kojem trenutku, za chat javite se na Telegram grupu: [https://t.me/potres2020_prijave](https://t.me/potres2020_prijave).
-
-[![](GoogleAnalytics.svg)](#)
