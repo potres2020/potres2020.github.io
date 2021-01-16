@@ -1,2 +1,4 @@
 # Google Analytics
 google_analytics: UA-187473103-2
+
+disable_disk_cache: true
