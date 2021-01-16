@@ -9,7 +9,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
         
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-2V5PBCDMTG"></script>
+        <script src="https://www.googletagmanager.com/gtag/js?id=G-2V5PBCDMTG"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
