@@ -1,7 +1,3 @@
----
-title: Inicijativa Potres2020
----
-
 <p align="center">
   <a href="https://potres2020.github.io">
     <img src="Inicijativa2020-logo-web-small.png" />
