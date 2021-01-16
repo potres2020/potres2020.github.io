@@ -1,4 +1,4 @@
-[![](GoogleAnalytics.svg?maxAge=2592000)](#)
+[![](GoogleAnalytics.svg?maxAge=10)](#)
 <p align="center">
   <a href="https://potres2020.github.io">
     <img src="Inicijativa2020-logo-web-small.png" />
