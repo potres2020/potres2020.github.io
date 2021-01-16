@@ -1,6 +1,5 @@
 ---
-page.title: Inicijativa Potres2020
-layout: default
+title: Inicijativa Potres2020
 ---
 
 <p align="center">
