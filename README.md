@@ -12,7 +12,7 @@ Inicijativa “Potres2020” je cluster nekoliko skupina volontera,
 koje prije svega motivira humanitarni rad u humanitarnoj krizi nastaloj nakon potresa u Petrinji i široj okolici.
 Okuplja volontere na terenu, koordinatore, moderatore, logističare, prijevoznike, skladištare i IT profesionalce koji pokušavaju
 uspostaviti sustav protoka provjerenih i pravovremenih informacija, kako bi se optimiziralo dostavljanje pomoći potrebitima
-u pravom trenutku bez kolapsa komunikacije i gubljenja vremena.
+u pravom trenutku, bez kolapsa komunikacije i gubljenja vremena.
 
 # Aplikacije
  * [www.potres.app](https://www.potres.app) - najnovija aplikacija koja omogućava da se volonteri i organizacije bolje organiziraju i rade na zajedničkim podacima o potrebama i ponudama za pomoć. Bilo tko može prijavljivati nove unose. Svaki unos sadrži prostorne koordinate potrebe/ponude i prikaz na karti. Prijavljeni korisnici / volonteri mogu preuzimati rješavanje potreba i javljati promjene sa terena kroz aplikaciju. Provjereni koordinatori mogu administrirati unose. Aplikacija dijeli podatke sa aplikacijom [potres2020.openit.hr](https://potres2020.openit.hr).
