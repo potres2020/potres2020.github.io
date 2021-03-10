@@ -38,4 +38,8 @@ Postoji grupa moderatora koja ima dežurstva 0-24 i mogu pomoći u bilo kojem tr
     <td><a href="https://www.integromat.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/main/integromat-logo-25px.png" alt="Integromat, donator dvomjesečne Standard pretplate"></a></td>
     <td><a href="https://www.integromat.com">Integromat, donator dvomjesečne Standard pretplate</a></td>
   </tr>
+  <tr>
+    <td><a href="https://www.postman.com"><img src="https://raw.githubusercontent.com/potres2020/potres.app-info/ae9950c94fb820c38a30f92c1de329eb9a386d42/postman-logo-stacked-25x.png" alt="Postman, donator deset godišnjih licenca"></a></td>
+    <td><a href="https://www.postman.com">Postman, donator deset godišnjih licenca</a></td>
+  </tr>
  </table>
